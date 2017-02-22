@@ -1,0 +1,27 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  AssemblyInfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  convertedpicturesize.cpp
+  convertimage.cpp
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(454): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(456): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(577): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(581): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(632): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(636): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Final project.cpp
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(454): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(456): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(577): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(581): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(632): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kosyn_000\documents\visual studio 2008\projects\final project\final project\convertimage.h(636): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  originalpicturesize.cpp
+  Quadeqn.cpp
+  Generating Code...
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Final project.vcxproj -> C:\Users\kosyn_000\Documents\Visual Studio 2008\Projects\Final project\Debug\Final project.exe
